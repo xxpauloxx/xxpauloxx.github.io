@@ -4,7 +4,7 @@ email:       paulo.pinda@gmail.com
 author:      Paulo Roberto Silva
 description: "Blog sobre desenvolvimento de software e outros assuntos."
 baseurl:     ""
-url:         "https://0p4ul0.com.br"
+url:         "https://www.xxpauloxx.com.br"
 date_format: "%b %-d, %Y"
 header_pages:
 # - projects.md
@@ -25,9 +25,9 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: 0p4ul0
-twitter_username: 0p4ul0
-linkedin_username: 0p4ul0
+github_username: xxpauloxx
+twitter_username: xxpauloxxcombr
+linkedin_username: xxpauloxx
 
 # Post sharing icons
 show_sharing_icons: true
