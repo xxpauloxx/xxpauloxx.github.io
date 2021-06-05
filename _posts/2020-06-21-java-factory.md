@@ -2,22 +2,25 @@
 layout:     post
 title:      Construindo fábricas usando Java
 date:       2020-06-12 11:21:29
-summary:    Implementação básica de fábricas básico  em Java
+summary:    Implementação básica de fábricas  em Java
 categories: design-patterns factory java
 ---
 
-Quando escrevi o artigo ["Padrão de projeto
-factory (fábrica)"](https://xxpauloxx.com.br/design-patterns-factory), eu planejava colocar exemplos de implementações em outras linguagens. Porém
-optei por escrever o artigo utilizando uma linguagem mais descritiva, para que o conceito fosse o
-foco e não detalhes da semântica de alguma linguagem mais verbosa ou burocrática.
+Quando escrevi o artigo ["Construindo fábricas seguindo boas práticas"](https://xxpauloxx.com.br/design-patterns-factory), eu planejava colocar exemplos de implementações em outras linguagens. Porém optei por escrever o artigo utilizando uma linguagem mais descritiva, para que o conceito fosse o foco e não detalhes da semântica de alguma linguagem mais verbosa ou burocrática.
+
+
 
 Java é um linguagem mais verbosa e burocrática, com convenções e estrutura de dados diferentes,
 um artigo dedicado a implementação seria mais interessante e deixaria o artigo anterior mais objetivo.
 Aqui estaremos criando uma classe fábrica que decide qual classe vai instanciar a partir de algum parâmetro.
 
+
+
 A idéia é criar um classe fábrica de veículos, estaremos fabricando motos e carros(não consegui
 achar um nome melhor, porque carro também é sinonimo de veículo, mas pra ilustrar o mecanismo é
 suficiente).
+
+
 
 ## Estrutura da implementação
 
@@ -127,4 +130,5 @@ Vehicle not implemented.
 ```
 Existem diversas formas de construir uma classe fábrica em Java, essa foi uma forma bastante
 comum em projetos que atuei ao longo do tempo, mas como exercício pegue os outros tipos de fábricas
-que estão no artigo ["Padrão de projeto factory (fábrica)"](https://xxpauloxx.com.br/design-patterns-factory) e implemente em Java.
+que estão no artigo ["Construindo fábricas seguindo boas práticas"](https://xxpauloxx.com.br/design-patterns-factory) e implemente em Java.
+
