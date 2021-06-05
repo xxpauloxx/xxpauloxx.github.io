@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Padrão de projeto factory (fábrica)
+title:     Construindo fábricas seguindo boas práticas
 date:       2020-06-12 11:21:29
-summary:    Explorando o design pattern factory (fábrica).
+summary:    Construção de fábricas de acordo com as boas práticas de código
 categories: design-patterns factory python
 ---
 

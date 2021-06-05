@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Fábrica simples em Java
+title:      Construindo fábricas usando Java
 date:       2020-06-12 11:21:29
-summary:    Implementação do padrão simple factory em Java.
+summary:    Implementação básica de fábricas básico  em Java
 categories: design-patterns factory java
 ---
 
