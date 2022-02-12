@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Construindo fábricas usando Java
+title:      "Design Patterns: Construindo factories usando Java"
 date:       2020-06-12 11:21:29
-summary:    Implementação básica de fábricas  em Java
-categories: design-patterns factory java
+summary:    Implementação básica do design pattern factory  em Java
+categories: design patterns factory java
 ---
 
 Quando escrevi o artigo ["Construindo fábricas seguindo boas práticas"](https://xxpauloxx.com.br/design-patterns-factory), eu planejava colocar exemplos de implementações em outras linguagens. Porém optei por escrever o artigo utilizando uma linguagem mais descritiva, para que o conceito fosse o foco e não detalhes da semântica de alguma linguagem mais verbosa ou burocrática.

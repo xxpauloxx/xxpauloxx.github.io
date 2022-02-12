@@ -2,9 +2,11 @@
 layout:     post
 title:      Middleware para filtrar requisições de países no Django
 date:       2020-06-12 11:21:29
-summary:    Middleware para filtrar requisições de países específicos no Django.
+summary:    Construção de um middleware para filtrar requisições de países específicos no Django.
 categories: django python geoip
 ---
+
+Esse projeto que visa filtrar requisições de países foi desenvolvido para eu entender como funciona middlewares em Django.
 
 Em alguns momentos você irá desenvolver aplicações que não necessita estar disponível para toda a Internet, ou seja, para outros países. Embora seja um situação muito especifica, pode acontecer. Algum tempo atrás desenvolvi um gerenciador de conteúdo para um sistema de educação a distância, devido aos problemas da pandemia, escolas municipais migraram suas aulas para a Internet.
 

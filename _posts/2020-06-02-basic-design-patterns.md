@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Um pouco sobre design patterns
+title:      "Design patterns: Um pouco sobre design patterns suas utilizações e seus tipos"
 date:       2020-06-02 11:21:29
-summary:    Um pouco sobre design patterns para ter em mente em seus projetos
-categories: design-patterns
+summary:    Um pouco sobre design patterns para ter em mente em seus projetos com suas utilizações e seus tipos
+categories: design patterns
 ---
 
 Quando vamos desenvolver o código de um software é comum encontrarmos problemas que são recorrentes, mesmo que em projetos distintos e com o passar do tempo criamos soluções padronizadas para os problemas.
@@ -20,9 +20,9 @@ Neste pequeno artigo vamos tentar falar um pouco mais sobre os padrões GoF("Gan
 
 No GoF os padrões são classificados basicamente em 3 famílias:
 - **Padrões de criação ou Creational Patterns**  está relacionado as criações de classes e objetos fornecendo flexibilidade e reutilização de código de forma mais eficiente.  
-    
+  
 - **Padrões estruturais ou Structural Patterns** é a forma que classes e objetos podem ser compostos para formar estruturas maiores.
-    
+  
 - **Padrões comportamentais ou Behavior Patterns** se preocupa com a interação e a responsabilidade de cada objeto.
 
 ## Os benefícios da utilização dos padrões

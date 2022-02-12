@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:     Construindo fábricas seguindo boas práticas
+title:     "Design Patterns: Construindo factories usando Python"
 date:       2020-06-12 11:21:29
-summary:    Construção de fábricas de acordo com as boas práticas de código
-categories: design-patterns factory python
+summary:    Implementação do design pattern de diversas formas  usando Python.
+categories: design patterns factory python
 ---
 
 As fábricas estão dentro do grupo de padrões criacionais, ou seja, são mecanismos que lidam com a criação de objetos. Basicamente existem alguns tipos de fábricas: `creation method`, `static creation`, `simple factory`, `factory method` e `abstract method`.
